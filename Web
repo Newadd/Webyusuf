@@ -1,6 +1,6 @@
 {
-  "message": "Your app is expired. please contact @ysf_ex",
-  "expirationDate": "2025-10-09",
+  "message": "App ini telah kadaluwarsa, maaf atas ketidak nyamanannya @bot_ysf_ex",
+  "expirationDate": "2025-03-15",
   "dateFormat": "yyyy-MM-dd",
   "buttonLink": "https://www.instagram.com/ysf_ex/"
 }
